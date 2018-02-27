@@ -1,0 +1,9 @@
+[{"verbatim": "I have a problem with the app.",
+	"id": "1",
+  "tags": ["Mobile App", "Other Cat"]},
+ {"verbatim": "I had to call to change my PIN.",
+	 "id": "2",
+  "tags": ["Call Center", "Mobile App", "PIN"]},
+ {"verbatim": "You guys rock!!!X!",
+	 "id": "3",
+  "tags": ["Positive"]}]

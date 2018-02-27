@@ -1,0 +1,18 @@
+rect{
+  fill: steelblue;
+	height: 20px;
+}
+
+text{
+	fill: white;
+	font: 10px sans-serif;
+	text-anchor: left;
+}
+
+.topic_selected{
+	fill: green;
+}
+
+.topic_unselected{
+	fill: red;
+}
